@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 # Gabriel Vieira
@@ -267,32 +267,6 @@ Competitive price monitoring and crawling platform.
 
 * Go
 * Ebiten2
-
-  C	167
-
-  L	71
-
-  M	19
-
-  R	130
-
-  T	4
-
-  U	96
-
-  Banco normalizado — só ficou 1 carta com raridade vazia (cadastro manual sem raridade definida). Resumo do que foi feito:
-
-  Corrigidos agora (25 registros)
-
-  Antigo	Novo	Qtd
-
-  common	C	17
-
-  uncommon	U	4
-
-  rare	R	3
-
-  mythic	M	1
 
 ### Highlights
 
