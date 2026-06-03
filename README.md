@@ -539,6 +539,67 @@ Besides backend engineering, I also enjoy:
 
 ---
 
+# PDI — Professional Development Plan
+
+```yaml
+2026_goals:
+
+  certifications:
+    - renew AWS Cloud Practitioner certification
+    - study for AWS Developer / Cloud Developer certification
+    - deepen cloud-native architecture expertise
+    - pursue AI-related certifications and learning paths
+
+  education:
+    - complete MBA in Cloud Computing at PUC Minas this year
+    - continue improving distributed systems and platform engineering knowledge
+
+  artificial_intelligence:
+    - study practical AI applications for engineering
+    - complete Anthropic learning trails
+    - explore AI-assisted developer tooling and workflows
+    - understand how AI can improve engineering productivity and platform experience
+
+  leadership:
+    - evolve technical leadership capabilities
+    - strengthen Staff Engineer responsibilities
+    - explore Tech Lead responsibilities and organizational impact
+    - improve communication and mentoring skills
+
+  product_and_business:
+    - improve onboarding experience for product clients
+    - help customers become more productive using the platform
+    - evolve product thinking and SaaS scalability vision
+    - strengthen relationship between engineering and users
+
+  community:
+    - become more active in the engineering community
+    - participate more actively in FRA initiatives and discussions
+    - share more technical content and engineering experiences
+    - strengthen collaboration and knowledge sharing
+
+  continuous_learning:
+    - consume more external technical content
+    - study architecture case studies from large companies
+    - follow modern platform engineering references
+    - deepen observability and distributed systems knowledge
+    - maintain continuous long-term technical evolution
+```
+
+### Easy To Expand
+
+```yaml
+future_topics:
+  - public speaking
+  - open source contributions
+  - engineering articles
+  - technical workshops
+  - AI engineering
+  - developer experience
+  - architecture reviews
+  - platform strategy
+```
+
 <div align="center">
 
 ## Let's Connect
