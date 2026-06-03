@@ -1,13 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=230&section=header&text=Gabriel%20Vieira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Platform%20Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Architecture&descAlignY=58&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=240&section=header&text=Gabriel%20Vieira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Platform%20Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Architecture&descAlignY=58&descSize=16"/>
 </p>
 
 <div align="center">
 
-### Staff / Platform Software Engineer  
-#### Backend • Distributed Systems • Cloud • Clean Architecture • Developer Experience
+# Gabriel Vieira
 
-Building scalable platforms, APIs and cloud-native systems with pragmatic engineering, observability and long-term maintainability.
+### Staff / Platform Software Engineer  
+### Backend • Cloud • Distributed Systems • Developer Experience
+
+Building scalable platforms, resilient distributed systems and developer-focused solutions with clean architecture and pragmatic engineering.
+
+<p>
+  <img src="https://img.shields.io/badge/Backend-Go-00ADD8?style=for-the-badge&logo=go">
+  <img src="https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php">
+  <img src="https://img.shields.io/badge/Rust-Systems%20Programming-black?style=for-the-badge&logo=rust">
+  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws">
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes">
+</p>
 
 </div>
 
@@ -26,20 +36,38 @@ Building scalable platforms, APIs and cloud-native systems with pragmatic engine
 
 # About Me
 
-I'm a Brazilian software engineer focused on backend engineering, platform engineering, distributed systems and cloud-native architecture.
+I'm a Brazilian software engineer focused on backend engineering, distributed systems, cloud-native architecture and developer experience.
 
-I have worked across fintech, proptech, energy, SaaS, automation, APIs, cloud platforms and internal developer tools.
+Over the years I have worked across:
+
+- fintech
+- proptech
+- energy
+- SaaS
+- automation
+- APIs
+- cloud platforms
+- internal developer platforms
 
 My main focus is building systems that are:
 
 - scalable
-- observable
 - maintainable
+- observable
 - resilient
 - simple to evolve
 - useful for both business and engineering teams
 
-I strongly value clean architecture, engineering culture, mentoring, documentation, technical ownership and pragmatic decisions.
+I strongly value:
+
+- clean architecture
+- engineering culture
+- technical ownership
+- mentoring
+- documentation
+- pragmatic decisions over hype
+- developer productivity
+- long-term maintainability
 
 ---
 
@@ -51,21 +79,21 @@ I strongly value clean architecture, engineering culture, mentoring, documentati
 
 ## Current Role
 
-**Platform Software Engineer at Itaú**
+### Platform Software Engineer at Itaú
 
-Working with scalable systems, platform reliability, backend architecture, developer experience and cloud integration.
+Working with scalable systems, platform reliability, cloud integrations and developer experience in one of the largest financial institutions in Latin America.
 
 </td>
 <td width="50%">
 
-## Engineering Focus
+## Main Focus
 
 - Platform Engineering
-- Backend Architecture
 - Distributed Systems
-- Cloud Solutions
+- Cloud Architecture
 - Developer Experience
 - Observability
+- Scalable APIs
 
 </td>
 </tr>
@@ -76,13 +104,12 @@ Working with scalable systems, platform reliability, backend architecture, devel
 ## Main Stack
 
 - Go
-- PHP
-- Rust
-- TypeScript
-- Python
 - AWS
+- Python
 - Docker
 - Kubernetes
+- IaC
+- Infraestructure
 
 </td>
 <td width="50%">
@@ -91,10 +118,10 @@ Working with scalable systems, platform reliability, backend architecture, devel
 
 - Staff Engineering
 - Platform Architecture
-- Distributed Systems
 - Engineering Leadership
 - Open Source
 - SaaS Products
+- Community Building
 
 </td>
 </tr>
@@ -108,18 +135,22 @@ Working with scalable systems, platform reliability, backend architecture, devel
 currently_building:
   - CityScope API:
       description: "Urban indicators API powered by Brazilian public data"
-      stack: ["Go", "IBGE APIs", "OpenAPI", "Caching"]
+      stack: ["Go", "IBGE APIs", "OpenAPI"]
 
   - Construction Weather Intelligence:
-      description: "SaaS that evaluates construction services based on weather forecasts"
+      description: "Construction SaaS powered by weather intelligence"
       stack: ["Rust", "Rules Engine", "AI-assisted recommendations"]
 
   - MarketWatch:
-      description: "Competitive price monitoring and crawling platform"
+      description: "Competitive price monitoring platform"
       stack: ["Rust", "PostgreSQL", "JWT", "Axum"]
 
+  - Magic Collector:
+      description: "Magic: The Gathering collection manager"
+      stack: ["Go", "React", "SQLite", "MTG APIs"]
+
   - FolcloreBeat:
-      description: "2D beat 'em up game inspired by Brazilian folklore"
+      description: "2D beat 'em up inspired by Brazilian folklore"
       stack: ["Go", "Ebiten2"]
 ```
 
@@ -127,27 +158,23 @@ currently_building:
 
 # GitHub Stats
 
-> Replace `VieiraGabrielAlexandre` with your GitHub username.
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VieiraGabrielAlexandre&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGabrielAlexandre&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VieiraGabrielAlexandre&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
 # Architecture Mindset
-
-<div align="center">
 
 ```mermaid
 flowchart TD
@@ -165,8 +192,6 @@ flowchart TD
     J --> M[Tracing]
 ```
 
-</div>
-
 ---
 
 # Architecture SVG
@@ -183,57 +208,88 @@ flowchart TD
 timeline
     title Career Journey
     2014 : Started software development journey
-    2020 : Backend and system architecture evolution
-    2022 : Cloud, APIs and distributed systems
-    2024 : Senior engineering, platform modernization and squad leadership
-    2025 : Staff-level responsibilities, architecture and mentoring
+    2020 : Backend and architecture evolution
+    2022 : Cloud and distributed systems
+    2024 : Squad leadership and platform modernization
+    2025 : Staff-level engineering responsibilities
     2026 : Platform Software Engineer at Itaú
 ```
 
 ---
 
-# Professional Highlights
+# Professional Experience
 
 ## Itaú — Platform Software Engineer
 
-Working with platform engineering and scalable systems in one of the largest financial institutions in Latin America.
+Working with scalable systems, platform engineering, cloud integrations and backend architecture in one of the largest financial institutions in Latin America.
 
-Main areas:
+### Main Responsibilities
 
+- backend architecture evolution
 - distributed systems
-- backend architecture
-- developer experience
 - platform reliability
-- cloud integration
+- developer experience
 - observability
+- cloud integrations
+- internal engineering tooling
+- scalable APIs
+- technical discussions and alignment
+- engineering collaboration
+
+### Important
+
+- helping improve developer productivity across teams
+- supporting scalable engineering initiatives
+- contributing to platform evolution
+- helping teams adopt better engineering practices
+- improving operational visibility and observability
+- contributing to engineering culture
+- creating maintainable and scalable technical solutions
+- helping clients and internal users become more productive using the platform
+- strengthening community and collaboration between engineering teams
+- sharing knowledge and technical context with developers
+- aiming to become a strong technical reference within the engineering community
+
+### Easy To Expand
+
+```yaml
+future_focus:
+  - developer enablement
+  - internal platform evolution
+  - engineering standards
+  - technical mentorship
+  - scalability initiatives
+  - engineering productivity
+  - community engagement
+```
 
 ---
 
 ## Superlógica Imobi — Senior Software Engineer
 
-Worked on large-scale real estate systems and platform modernization initiatives.
+Worked on large-scale real estate systems and modernization initiatives.
 
-Highlights:
+### Highlights
 
 - API integrations
 - automation
 - scalable backend services
-- developer productivity improvements
 - architectural evolution
 - internal tooling
+- developer productivity improvements
 
 ---
 
 ## Órigo Energia — Software Engineer
 
-Worked on backend solutions and business process automation for the energy sector.
+Worked on backend solutions and automation for the energy sector.
 
-Focus:
+### Focus
 
 - integrations
 - cloud services
-- performance
 - backend systems
+- performance
 - operational workflows
 
 ---
@@ -250,11 +306,13 @@ Focus:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-- Go: Gin, net/http, Gorilla WebSocket, Uber FX
-- PHP: Laravel, pure PHP
-- Rust: Axum, Tokio, SQLx
+### Main Technologies
+
+- Go (Gin, net/http, Gorilla WebSocket, Uber FX)
+- PHP (Laravel, pure PHP)
+- Rust (Axum, Tokio, SQLx)
 - Node.js / TypeScript
-- Python: FastAPI, Flask
+- Python (FastAPI, Flask)
 - .NET APIs
 
 ---
@@ -268,118 +326,131 @@ Focus:
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">
 </p>
 
-- Lambda
-- API Gateway
-- S3
-- DynamoDB
-- SQS
-- SNS
-- CloudFront
-- Cognito
-- WAF
-- IAM
-- Docker
+### Main Areas
+
+- AWS
 - Kubernetes
+- Docker
 - Terraform
 - CI/CD
-
----
-
-## Architecture
-
-- Clean Architecture
-- Hexagonal Architecture
-- DDD
-- Event Driven Systems
-- Microservices
+- Observability
 - Distributed Systems
-- API-first design
-- Observability-first systems
 
 ---
 
 # Notable Projects
 
-<table>
-<tr>
-<td width="50%">
-
 ## CityScope API
 
-Urban indicators API powered by IBGE public data.
+Urban indicators API powered by Brazilian public data.
 
-**Stack:** Go, REST, OpenAPI, cache, logs
+### Stack
 
-**Highlights:**
+- Go
+- REST APIs
+- OpenAPI
+- Caching
+- Structured Logging
+
+### Highlights
 
 - Brazilian city indicators
 - population data
 - density analysis
 - public data aggregation
 
-</td>
-<td width="50%">
+---
 
 ## Construction Weather Intelligence
 
-SaaS that evaluates construction services based on weather.
+Construction SaaS powered by weather intelligence.
 
-**Stack:** Rust, rules engine, OpenAPI, AI-assisted output
+### Stack
 
-**Highlights:**
+- Rust
+- Rules Engine
+- OpenAPI
+- AI-assisted recommendations
 
-- weather risk analysis
+### Highlights
+
+- weather analysis
 - service recommendations
-- construction planning
+- operational planning
+- construction risk evaluation
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
+---
 
 ## MarketWatch
 
 Competitive price monitoring and crawling platform.
 
-**Stack:** Rust, PostgreSQL, JWT, Axum
+### Stack
 
-**Highlights:**
+- Rust
+- PostgreSQL
+- JWT
+- SQLx
+- Axum
+
+### Highlights
 
 - crawling orchestration
 - price snapshots
 - scalable backend design
+- monitoring pipelines
 
-</td>
-<td width="50%">
+---
+
+## Magic Collector
+
+Magic: The Gathering collection manager focused on local inventory and external API integrations.
+
+### Stack
+
+- Go
+- React
+- SQLite
+- REST APIs
+- MTG APIs
+
+### Highlights
+
+- collection analysis
+- rarity normalization
+- local inventory management
+- deck organization
+- external API integrations
+
+---
 
 ## FolcloreBeat
 
-2D beat 'em up game inspired by Brazilian folklore.
+2D beat 'em up inspired by Brazilian folklore.
 
-**Stack:** Go, Ebiten2
+### Stack
 
-**Highlights:**
+- Go
+- Ebiten2
+
+### Highlights
 
 - original combat system
-- Brazilian folklore creatures
+- folklore-inspired enemies
 - retro arcade inspiration
-
-</td>
-</tr>
-</table>
 
 ---
 
 # Leadership & Mentoring
 
-- Led 3 engineering squads
+- Led engineering squads
 - Mentored developers
 - Participated in architectural decisions
 - Helped define engineering standards
-- Worked closely with QA, Product and DevOps
-- Promoted documentation-driven engineering
-- Supported technical alignment across teams
+- Strong collaboration with QA, Product and DevOps
+- Documentation-driven engineering mindset
+- Knowledge sharing initiatives
+- Cross-team collaboration
 
 ---
 
@@ -387,11 +458,9 @@ Competitive price monitoring and crawling platform.
 
 ## PUC Minas
 
-**MBA — Cloud Computing**  
-In progress
+### MBA — Cloud Computing *(in progress)*
 
-**Postgraduate Degree — Distributed Software Architecture**  
-Completed
+### Postgraduate Degree — Distributed Software Architecture
 
 ---
 
@@ -416,13 +485,29 @@ I prefer:
 - platform engineering
 - internal developer platforms
 - backend APIs
-- event-driven architectures
 - distributed systems
+- event-driven architectures
 - automation
-- developer tooling
 - observability
 - scalable SaaS products
 - game backend architecture
+- engineering culture
+
+---
+
+# Community & Long-Term Goals
+
+```yaml
+goals:
+  - become a strong technical reference in the engineering community
+  - contribute to developer growth and mentoring
+  - help teams become more productive through better platforms
+  - improve developer experience and engineering culture
+  - contribute to scalable engineering ecosystems
+  - create meaningful SaaS products
+  - share technical knowledge publicly
+  - strengthen collaboration between teams and communities
+```
 
 ---
 
@@ -463,5 +548,5 @@ Engineering • Architecture • Distributed Systems • Cloud • Platforms
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:0f172a&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:0f172a&height=120&section=footer"/>
 </p>
