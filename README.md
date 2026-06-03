@@ -173,7 +173,6 @@ flowchart TD
 
 Save this as `assets/architecture.svg` and reference it in your README.
 
-```svg
 <svg width="1000" height="420" viewBox="0 0 1000 420" xmlns="http://www.w3.org/2000/svg">
   <rect width="1000" height="420" rx="24" fill="#0f172a"/>
   <text x="500" y="45" text-anchor="middle" fill="#ffffff" font-size="26" font-family="Arial">Engineering Architecture Map</text>
@@ -207,15 +206,12 @@ Save this as `assets/architecture.svg` and reference it in your README.
   <line x1="865" y1="170" x2="505" y2="250" stroke="#94a3b8" stroke-width="3"/>
   <line x1="865" y1="170" x2="735" y2="250" stroke="#94a3b8" stroke-width="3"/>
 </svg>
-```
 
 Then use:
 
-```md
 <p align="center">
   <img src="./assets/architecture.svg" />
 </p>
-```
 
 ---
 
@@ -507,4 +503,3 @@ Engineering • Architecture • Distributed Systems • Cloud • Platforms
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1d4ed8,100:0f172a&height=120&section=footer" />
 </p>
-````
