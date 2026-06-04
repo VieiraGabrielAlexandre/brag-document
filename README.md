@@ -6,8 +6,8 @@
 
 # Gabriel Vieira
 
-### Staff / Platform Software Engineer  
-### Backend • Cloud • Distributed Systems • Developer Experience
+### Platform Software Engineer
+### Backend • Cloud • Distributed Systems • AI Engineering • Developer Experience
 
 Building scalable platforms, resilient distributed systems and developer-focused solutions with clean architecture and pragmatic engineering.
 
@@ -71,6 +71,28 @@ I strongly value:
 
 ---
 
+# Engineering Beyond Code
+
+Beyond enterprise software development, I enjoy exploring adjacent areas that expand my engineering perspective and help me build better systems.
+
+My interests go beyond traditional backend development and include:
+
+- AI-assisted software engineering
+- SaaS product design
+- Game architecture and combat systems
+- Developer Experience (DX)
+- Platform Engineering
+- Public data platforms
+- Automation systems
+- Technical content creation
+- Cloud-native experimentation
+
+I believe the best engineers learn across multiple domains and bring those insights back into software engineering.
+
+Many of my personal projects are laboratories where I experiment with architecture, product design, AI-assisted workflows and emerging technologies.
+
+---
+
 # Dashboard
 
 <table>
@@ -129,31 +151,72 @@ Working with scalable systems, platform reliability, cloud integrations and deve
 
 ---
 
+## Innovation Focus
+
+- AI Engineering
+- Platform Engineering
+- Developer Productivity
+- SaaS Products
+- Technical Experimentation
+- Architecture Reviews
+
 # Currently Building
 
 ```yaml
 currently_building:
+
   - CityScope API:
       description: "Urban indicators API powered by Brazilian public data"
-      stack: ["Go", "IBGE APIs", "OpenAPI"]
+      stack:
+        - Go
+        - IBGE APIs
+        - OpenAPI
 
   - Construction Weather Intelligence:
-      description: "Construction SaaS powered by weather intelligence"
-      stack: ["Rust", "Rules Engine", "AI-assisted recommendations"]
+      description: "Construction planning SaaS powered by weather intelligence and AI-assisted recommendations"
+      stack:
+        - Rust
+        - Rules Engine
+        - AI Integration
+        - OpenAPI
 
   - MarketWatch:
-      description: "Competitive price monitoring platform"
-      stack: ["Rust", "PostgreSQL", "JWT", "Axum"]
+      description: "Competitive monitoring and market intelligence platform"
+      stack:
+        - Rust
+        - PostgreSQL
+        - JWT
+        - Axum
 
   - Magic Collector:
-      description: "Magic: The Gathering collection manager"
-      stack: ["Go", "React", "SQLite", "MTG APIs"]
+      description: "Magic: The Gathering collection and deck management platform"
+      stack:
+        - Go
+        - React
+        - SQLite
+        - Scryfall API
 
   - FolcloreBeat:
       description: "2D beat 'em up inspired by Brazilian folklore"
-      stack: ["Go", "Ebiten2"]
-```
+      stack:
+        - Go
+        - Ebiten2
 
+  - AI Engineering Workflows:
+      description: "Engineering workflows powered by Claude, ChatGPT and AI-assisted development"
+      stack:
+        - Claude Code
+        - ChatGPT
+        - Prompt Engineering
+        - Architecture Reviews
+
+  - Fighting Game Architecture Research:
+      description: "Professional fighting game systems and combat architecture studies"
+      stack:
+        - Godot
+        - State Machines
+        - Gameplay Systems
+```
 ---
 
 # GitHub Stats
@@ -207,12 +270,24 @@ flowchart TD
 ```mermaid
 timeline
     title Career Journey
+
     2014 : Started software development journey
+
     2020 : Backend and architecture evolution
+
     2022 : Cloud and distributed systems
+
     2024 : Squad leadership and platform modernization
+
     2025 : Staff-level engineering responsibilities
+
     2026 : Platform Software Engineer at Itaú
+
+    2026 : AI-assisted engineering workflows
+
+    2026 : SaaS product experimentation
+
+    2026 : Platform Engineering focus
 ```
 
 ---
@@ -439,6 +514,56 @@ Magic: The Gathering collection manager focused on local inventory and external 
 - folklore-inspired enemies
 - retro arcade inspiration
 
+## AI Engineering
+
+### Tools
+
+- Claude Code
+- ChatGPT
+- GitHub Copilot
+- LLM-assisted development workflows
+
+### Areas
+
+- Prompt Engineering
+- AI-assisted Architecture
+- Documentation Generation
+- Product Discovery
+- Engineering Productivity
+- Knowledge Systems
+
+---
+
+# AI & Innovation
+
+I actively explore practical applications of AI to improve engineering productivity, architecture decisions and developer experience.
+
+## Areas of Experimentation
+
+- Claude Code workflows
+- ChatGPT-assisted engineering
+- AI-assisted architecture reviews
+- Prompt engineering
+- AI-generated technical documentation
+- AI-enhanced product discovery
+- AI-assisted SaaS development
+- Knowledge augmentation systems
+
+## Engineering Philosophy
+
+My goal is not replacing engineers with AI.
+
+My focus is helping engineers:
+
+- make better decisions
+- reduce repetitive work
+- improve software quality
+- accelerate delivery
+- increase productivity
+- improve learning velocity
+
+I see AI as a force multiplier for engineering teams rather than a replacement for technical expertise.
+
 ---
 
 # Leadership & Mentoring
@@ -508,6 +633,25 @@ goals:
   - share technical knowledge publicly
   - strengthen collaboration between teams and communities
 ```
+---
+
+# Technical Interests
+
+Current areas that I actively study and explore:
+
+- Platform Engineering
+- Distributed Systems
+- AI Engineering
+- Developer Experience
+- Cloud Native Architecture
+- SaaS Products
+- Public Data Platforms
+- Game Development
+- Fighting Game Architecture
+- Observability
+- Product Engineering
+- Automation Systems
+- Knowledge Management
 
 ---
 
@@ -530,19 +674,23 @@ goals:
 
 Besides backend engineering, I also enjoy:
 
+- building SaaS products
 - creating game prototypes
 - studying fighting game architecture
-- AI-generated media projects
+- AI-assisted development
+- prompt engineering
 - Magic: The Gathering
 - Brazilian folklore storytelling
-- building experimental tools
+- automation systems
+- public data platforms
+- architecture experimentation
 
 ---
 
 # PDI — Professional Development Plan
 
 ```yaml
-2026_goals:
+2026_:
 
   certifications:
     - renew AWS Cloud Practitioner certification
@@ -583,7 +731,28 @@ Besides backend engineering, I also enjoy:
     - study architecture case studies from large companies
     - follow modern platform engineering references
     - deepen observability and distributed systems knowledge
-    - maintain continuous long-term technical evolution
+      - maintain continuous long-term technical evolution
+
+  ai_engineering:  
+    - master AI-assisted software development workflows
+    - deepen prompt engineering expertise
+    - become a reference in AI for engineering productivity
+    - integrate AI into platform engineering practices
+    - build production-ready AI-powered products
+    - study multi-agent systems
+    - deepen LLM architecture knowledge
+  
+  platform_engineering:
+    - strengthen platform engineering expertise
+    - improve developer experience initiatives
+    - contribute to internal developer platforms
+    - evolve engineering enablement capabilities
+  
+  product_building:
+    - launch personal SaaS products
+    - validate product ideas
+    - improve product thinking
+    - strengthen business and engineering alignment
 ```
 
 ### Easy To Expand
@@ -599,6 +768,22 @@ future_topics:
   - architecture reviews
   - platform strategy
 ```
+
+# Personal Projects Philosophy
+
+Most of my personal projects are intentionally built as learning platforms.
+
+Each project is an opportunity to explore:
+
+- new technologies
+- architectural patterns
+- developer experience improvements
+- AI-assisted workflows
+- cloud-native solutions
+- product thinking
+
+Rather than building projects only for portfolios, I use them as environments to experiment, validate ideas and continuously evolve as an engineer.
+
 
 <div align="center">
 
