@@ -219,21 +219,18 @@ currently_building:
 ```
 ---
 
-# GitHub Stats
+# Engineering Snapshot
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=VieiraGabrielAlexandre&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VieiraGabrielAlexandre&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VieiraGabrielAlexandre&theme=tokyonight&hide_border=true" />
-
-</div>
+| Category | Highlights |
+|-----------|-----------|
+| Experience | 10+ years |
+| Current Role | Platform Software Engineer |
+| Main Languages | Go, PHP, Rust, Python |
+| Cloud | AWS |
+| Architecture | DDD, Clean Architecture, Hexagonal |
+| Leadership | 3 Squads Led |
+| Focus Areas | Platform Engineering, AI Engineering, DX |
+| Current Goal | Staff Engineer |
 
 ---
 
