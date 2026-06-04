@@ -151,15 +151,6 @@ Working with scalable systems, platform reliability, cloud integrations and deve
 
 ---
 
-## Innovation Focus
-
-- AI Engineering
-- Platform Engineering
-- Developer Productivity
-- SaaS Products
-- Technical Experimentation
-- Architecture Reviews
-
 # Currently Building
 
 ```yaml
@@ -408,6 +399,25 @@ Worked on backend solutions and automation for the energy sector.
 - Observability
 - Distributed Systems
 
+## AI Engineering
+
+### Tools
+
+- Claude Code
+- ChatGPT
+- GitHub Copilot
+- LLM-assisted development workflows
+
+### Areas
+
+- Prompt Engineering
+- AI-assisted Architecture
+- Documentation Generation
+- Product Discovery
+- Engineering Productivity
+- Knowledge Systems
+
+
 ---
 
 # Notable Projects
@@ -510,25 +520,17 @@ Magic: The Gathering collection manager focused on local inventory and external 
 - original combat system
 - folklore-inspired enemies
 - retro arcade inspiration
+---
 
-## AI Engineering
+# Engineering Principles
 
-### Tools
-
-- Claude Code
-- ChatGPT
-- GitHub Copilot
-- LLM-assisted development workflows
-
-### Areas
-
-- Prompt Engineering
-- AI-assisted Architecture
-- Documentation Generation
-- Product Discovery
-- Engineering Productivity
-- Knowledge Systems
-
+- Build simple systems first
+- Prefer maintainability over complexity
+- Optimize for developer productivity
+- Measure before optimizing
+- Automate repetitive work
+- Document important decisions
+- Design for evolution
 ---
 
 # AI & Innovation
@@ -565,10 +567,10 @@ I see AI as a force multiplier for engineering teams rather than a replacement f
 
 # Leadership & Mentoring
 
-- Led engineering squads
+- Led 3 engineering squads across different business domains.
 - Mentored developers
 - Participated in architectural decisions
-- Helped define engineering standards
+- Helped establish engineering standards, architectural guidelines and development practices.
 - Strong collaboration with QA, Product and DevOps
 - Documentation-driven engineering mindset
 - Knowledge sharing initiatives
@@ -599,21 +601,6 @@ I prefer:
 - architecture with business purpose
 - long-term maintainability
 - documentation as part of delivery
-
----
-
-# Areas I Enjoy Working With
-
-- platform engineering
-- internal developer platforms
-- backend APIs
-- distributed systems
-- event-driven architectures
-- automation
-- observability
-- scalable SaaS products
-- game backend architecture
-- engineering culture
 
 ---
 
@@ -750,20 +737,6 @@ Besides backend engineering, I also enjoy:
     - validate product ideas
     - improve product thinking
     - strengthen business and engineering alignment
-```
-
-### Easy To Expand
-
-```yaml
-future_topics:
-  - public speaking
-  - open source contributions
-  - engineering articles
-  - technical workshops
-  - AI engineering
-  - developer experience
-  - architecture reviews
-  - platform strategy
 ```
 
 # Personal Projects Philosophy
