@@ -619,6 +619,8 @@ Ongoing log of courses and learning trails completed throughout the year.
 
 - 12-course track covering Docker and Vagrant
 
+## DIO - Formação Kubernetes Fundamentals
+- 14-course track covering devops, k8s, ci/cd and sre itens
 ---
 
 # Engineering Philosophy
