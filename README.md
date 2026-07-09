@@ -101,7 +101,7 @@ Many of my personal projects are laboratories where I experiment with architectu
 
 ## Current Role
 
-### Platform Software Engineer at Itaú
+### Tech Lead — Platform Engineering at Itaú
 
 Working with scalable systems, platform reliability, cloud integrations and developer experience in one of the largest financial institutions in Latin America.
 
@@ -271,6 +271,8 @@ timeline
 
     2026 : Platform Software Engineer at Itaú
 
+    2026 : Tech Lead of Platform Engineering team at Itaú
+
     2026 : AI-assisted engineering workflows
 
     2026 : SaaS product experimentation
@@ -282,9 +284,18 @@ timeline
 
 # Professional Experience
 
-## Itaú — Platform Software Engineer
+## Itaú
 
 Working with scalable systems, platform engineering, cloud integrations and backend architecture in one of the largest financial institutions in Latin America.
+
+### Tech Lead — Platform Engineering *(current)*
+
+- leading the team's technical direction and architecture decisions
+- driving technical alignment between engineering, product and stakeholders
+- mentoring engineers and supporting technical growth within the team
+- owning engineering standards and delivery quality for the squad
+
+### Platform Software Engineer
 
 ### Main Responsibilities
 
@@ -394,6 +405,7 @@ Worked on backend solutions and automation for the energy sector.
 - AWS
 - Kubernetes
 - Docker
+- Vagrant
 - Terraform
 - CI/CD
 - Observability
@@ -567,6 +579,7 @@ I see AI as a force multiplier for engineering teams rather than a replacement f
 
 # Leadership & Mentoring
 
+- Currently Tech Lead of the Platform Engineering team at Itaú.
 - Led 3 engineering squads across different business domains.
 - Mentored developers
 - Participated in architectural decisions
@@ -580,11 +593,31 @@ I see AI as a force multiplier for engineering teams rather than a replacement f
 
 # Education
 
-## PUC Minas
+### PUC Minas - MBA — Cloud Computing *(in progress)*
 
-### MBA — Cloud Computing *(in progress)*
+### PUC Minas - MBA — Distributed Software Architecture
 
-### Postgraduate Degree — Distributed Software Architecture
+### Uninove - Computer Science - (2015 - 2019)
+
+### Uninove - Web Development - (2016 - 2018)
+
+---
+
+# Courses & Certifications — 2026
+
+Ongoing log of courses and learning trails completed throughout the year.
+
+## Anthropic Academy
+
+- Claude 101
+- Claude Code 101
+- Claude Platform 101
+- Claude Code in Action
+- AI Fluency: Framework & Foundations
+
+## DIO — Formação Docker Fundamentals
+
+- 12-course track covering Docker and Vagrant
 
 ---
 
@@ -645,7 +678,7 @@ Current areas that I actively study and explore:
 |---|---|
 | Backend | Go, Rust, PHP, Python, TypeScript |
 | Frontend | React, Vite |
-| Infra | Docker, Kubernetes, Terraform |
+| Infra | Docker, Vagrant, Kubernetes, Terraform |
 | Cloud | AWS |
 | Database | PostgreSQL, MySQL, DynamoDB, MongoDB |
 | Messaging | RabbitMQ, Redis, SQS |
@@ -688,7 +721,7 @@ Besides backend engineering, I also enjoy:
 
   artificial_intelligence:
     - study practical AI applications for engineering
-    - complete Anthropic learning trails
+    - completed Anthropic Academy trail (Claude 101, Claude Code 101, Claude Platform 101, Claude Code in Action, AI Fluency: Framework & Foundations)
     - explore AI-assisted developer tooling and workflows
     - understand how AI can improve engineering productivity and platform experience
 
