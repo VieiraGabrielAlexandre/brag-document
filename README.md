@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=240&section=header&text=Gabriel%20Vieira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Platform%20Software%20Engineer%20%7C%20Distributed%20Systems%20%7C%20Cloud%20Architecture&descAlignY=58&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:7c3aed&height=240&section=header&text=Gabriel%20Vieira&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Platform%20Software%20Engineer%20%7C%20Platform%20Engineering%20%7C%20Cloud%20Architecture&descAlignY=58&descSize=16"/>
 </p>
 
 <div align="center">
 
 # Gabriel Vieira
 
-### Platform Software Engineer
-### Backend • Cloud • Distributed Systems • AI Engineering • Developer Experience
+### Senior Platform Software Engineer
+### Platform Engineering • Cloud • Distributed Systems • Developer Experience
 
-Building scalable platforms, resilient distributed systems and developer-focused solutions with clean architecture and pragmatic engineering.
+Building internal platforms, resilient distributed systems and developer-focused solutions with clean architecture and pragmatic engineering.
 
 <p>
   <img src="https://img.shields.io/badge/Backend-Go-00ADD8?style=for-the-badge&logo=go">
@@ -36,64 +36,39 @@ Building scalable platforms, resilient distributed systems and developer-focused
 
 # About Me
 
-I'm a Brazilian software engineer focused on backend engineering, distributed systems, cloud-native architecture and developer experience.
+I'm a Brazilian software engineer focused on platform engineering, distributed systems, cloud-native architecture and developer experience.
 
-Over the years I have worked across:
+Over the years I have worked across fintech, proptech, energy, SaaS, automation, APIs and internal developer platforms.
 
-- fintech
-- proptech
-- energy
-- SaaS
-- automation
-- APIs
-- cloud platforms
-- internal developer platforms
-
-My main focus is building systems that are:
-
-- scalable
-- maintainable
-- observable
-- resilient
-- simple to evolve
-- useful for both business and engineering teams
-
-I strongly value:
-
-- clean architecture
-- engineering culture
-- technical ownership
-- mentoring
-- documentation
-- pragmatic decisions over hype
-- developer productivity
-- long-term maintainability
+I strongly value clean architecture, technical ownership, mentoring, documentation, developer productivity and pragmatic decisions over hype.
 
 ---
 
-# Engineering Beyond Code
+# Recent Impact
 
-Beyond enterprise software development, I enjoy exploring adjacent areas that expand my engineering perspective and help me build better systems.
+## Internal Platform Evolution
 
-My interests go beyond traditional backend development and include:
+- Contributed to the evolution of internal platform components and services
+- Participated in internal platform architecture discussions and reviews
+- Contributed to deployment workflows and platform governance
+- Improved developer experience through documentation and technical guidance
 
-- AI-assisted software engineering
-- SaaS product design
-- Game architecture and combat systems
-- Developer Experience (DX)
-- Platform Engineering
-- Public data platforms
-- Automation systems
-- Technical content creation
-- Cloud-native experimentation
+## Engineering Enablement
 
-I believe the best engineers learn across multiple domains and bring those insights back into software engineering.
+- Supported onboarding of engineers
+- Created technical documentation and reference materials
+- Shared platform knowledge across teams
+- Participated in architecture and implementation reviews
 
-Many of my personal projects are laboratories where I experiment with architecture, product design, AI-assisted workflows and emerging technologies.
+## Reliability & Operations
+
+- Supported production change processes
+- Contributed to infrastructure modernization efforts
+- Participated in observability and operational readiness initiatives
 
 ---
 
-# Dashboard
+# Snapshot
 
 <table>
 <tr>
@@ -101,9 +76,9 @@ Many of my personal projects are laboratories where I experiment with architectu
 
 ## Current Role
 
-### Tech Lead — Platform Engineering at Itaú
+### Senior Platform Software Engineer at Itaú
 
-Working with scalable systems, platform reliability, cloud integrations and developer experience in one of the largest financial institutions in Latin America.
+Acting as technical leader for platform initiatives, engineering standards and developer enablement in one of the largest financial institutions in Latin America.
 
 </td>
 <td width="50%">
@@ -131,19 +106,17 @@ Working with scalable systems, platform reliability, cloud integrations and deve
 - Docker
 - Kubernetes
 - IaC
-- Infraestructure
 
 </td>
 <td width="50%">
 
-## Career Direction
+## Career Direction — Staff Platform Engineer
 
-- Staff Engineering
 - Platform Architecture
+- Organizational Influence
 - Engineering Leadership
-- Open Source
 - SaaS Products
-- Community Building
+- Open Source & Community
 
 </td>
 </tr>
@@ -151,77 +124,95 @@ Working with scalable systems, platform reliability, cloud integrations and deve
 
 ---
 
-# Currently Building
+# Platform Engineering
 
-```yaml
-currently_building:
+Areas where I actively contribute:
 
-  - CityScope API:
-      description: "Urban indicators API powered by Brazilian public data"
-      stack:
-        - Go
-        - IBGE APIs
-        - OpenAPI
+- Internal Developer Platforms
+- Golden Paths
+- Cloud Governance
+- Engineering Enablement
+- Developer Experience
+- Infrastructure Automation
+- Platform Reliability
+- Observability
+- Service Lifecycle Management
+- Internal Tooling
 
-  - Construction Weather Intelligence:
-      description: "Construction planning SaaS powered by weather intelligence and AI-assisted recommendations"
-      stack:
-        - Rust
-        - Rules Engine
-        - AI Integration
-        - OpenAPI
-
-  - MarketWatch:
-      description: "Competitive monitoring and market intelligence platform"
-      stack:
-        - Rust
-        - PostgreSQL
-        - JWT
-        - Axum
-
-  - Magic Collector:
-      description: "Magic: The Gathering collection and deck management platform"
-      stack:
-        - Go
-        - React
-        - SQLite
-        - Scryfall API
-
-  - FolcloreBeat:
-      description: "2D beat 'em up inspired by Brazilian folklore"
-      stack:
-        - Go
-        - Ebiten2
-
-  - AI Engineering Workflows:
-      description: "Engineering workflows powered by Claude, ChatGPT and AI-assisted development"
-      stack:
-        - Claude Code
-        - ChatGPT
-        - Prompt Engineering
-        - Architecture Reviews
-
-  - Fighting Game Architecture Research:
-      description: "Professional fighting game systems and combat architecture studies"
-      stack:
-        - Godot
-        - State Machines
-        - Gameplay Systems
-```
 ---
 
-# Engineering Snapshot
+# Enterprise Initiatives
 
-| Category | Highlights |
-|-----------|-----------|
-| Experience | 10+ years |
-| Current Role | Platform Software Engineer |
-| Main Languages | Go, PHP, Rust, Python |
-| Cloud | AWS |
-| Architecture | DDD, Clean Architecture, Hexagonal |
-| Leadership | 3 Squads Led |
-| Focus Areas | Platform Engineering, AI Engineering, DX |
-| Current Goal | Staff Engineer |
+## Internal Developer Platform Evolution
+
+Contributing to platform architecture, developer enablement and engineering workflows.
+
+## Cloud Platform Governance
+
+Supporting infrastructure standards, deployment processes and cloud operational practices.
+
+## Developer Experience
+
+Working on documentation, onboarding, Golden Paths and engineering enablement initiatives.
+
+---
+
+# Professional Experience
+
+## Itaú
+
+Working with scalable systems, platform engineering, cloud integrations and backend architecture.
+
+### Senior Platform Software Engineer *(current)*
+
+Acting as technical leader for platform initiatives, engineering standards and developer enablement.
+
+**Responsibilities**
+
+- backend and platform architecture evolution
+- distributed systems and scalable APIs
+- platform reliability and observability
+- developer experience and internal engineering tooling
+- cloud integrations
+- technical alignment across engineering, product and stakeholders
+- mentoring engineers and supporting technical growth within the team
+- owning engineering standards and delivery quality for the squad
+
+**Impact**
+
+- improved developer productivity across teams through tooling and documentation
+- contributed to platform evolution and engineering culture
+- helped teams adopt better engineering practices and improve operational visibility
+- supported clients and internal users in becoming more productive on the platform
+
+---
+
+## Superlógica Imobi — Senior Software Engineer
+
+Worked on large-scale real estate systems and modernization initiatives.
+
+### Highlights
+
+- API integrations
+- automation
+- scalable backend services
+- architectural evolution
+- internal tooling
+- developer productivity improvements
+
+---
+
+## Órigo Energia — Software Engineer
+
+Worked on backend solutions and automation for the energy sector.
+
+### Focus
+
+- integrations
+- cloud services
+- backend systems
+- performance
+- operational workflows
 
 ---
 
@@ -269,102 +260,12 @@ timeline
 
     2025 : Staff-level engineering responsibilities
 
-    2026 : Platform Software Engineer at Itaú
+    2026 : Senior Platform Software Engineer at Itaú, acting as technical leader for platform initiatives
 
-    2026 : Tech Lead of Platform Engineering team at Itaú
+    2026 : AI-assisted engineering workflows adoption and Anthropic Academy certification
 
-    2026 : AI-assisted engineering workflows
-
-    2026 : SaaS product experimentation
-
-    2026 : Platform Engineering focus
+    2026 : Platform Engineering focus and SaaS product experimentation
 ```
-
----
-
-# Professional Experience
-
-## Itaú
-
-Working with scalable systems, platform engineering, cloud integrations and backend architecture in one of the largest financial institutions in Latin America.
-
-### Tech Lead — Platform Engineering *(current)*
-
-- leading the team's technical direction and architecture decisions
-- driving technical alignment between engineering, product and stakeholders
-- mentoring engineers and supporting technical growth within the team
-- owning engineering standards and delivery quality for the squad
-
-### Platform Software Engineer
-
-### Main Responsibilities
-
-- backend architecture evolution
-- distributed systems
-- platform reliability
-- developer experience
-- observability
-- cloud integrations
-- internal engineering tooling
-- scalable APIs
-- technical discussions and alignment
-- engineering collaboration
-
-### Important
-
-- helping improve developer productivity across teams
-- supporting scalable engineering initiatives
-- contributing to platform evolution
-- helping teams adopt better engineering practices
-- improving operational visibility and observability
-- contributing to engineering culture
-- creating maintainable and scalable technical solutions
-- helping clients and internal users become more productive using the platform
-- strengthening community and collaboration between engineering teams
-- sharing knowledge and technical context with developers
-- aiming to become a strong technical reference within the engineering community
-
-### Easy To Expand
-
-```yaml
-future_focus:
-  - developer enablement
-  - internal platform evolution
-  - engineering standards
-  - technical mentorship
-  - scalability initiatives
-  - engineering productivity
-  - community engagement
-```
-
----
-
-## Superlógica Imobi — Senior Software Engineer
-
-Worked on large-scale real estate systems and modernization initiatives.
-
-### Highlights
-
-- API integrations
-- automation
-- scalable backend services
-- architectural evolution
-- internal tooling
-- developer productivity improvements
-
----
-
-## Órigo Energia — Software Engineer
-
-Worked on backend solutions and automation for the energy sector.
-
-### Focus
-
-- integrations
-- cloud services
-- backend systems
-- performance
-- operational workflows
 
 ---
 
@@ -411,6 +312,8 @@ Worked on backend solutions and automation for the energy sector.
 - Observability
 - Distributed Systems
 
+---
+
 ## AI Engineering
 
 ### Tools
@@ -418,21 +321,23 @@ Worked on backend solutions and automation for the energy sector.
 - Claude Code
 - ChatGPT
 - GitHub Copilot
-- LLM-assisted development workflows
 
 ### Areas
 
 - Prompt Engineering
-- AI-assisted Architecture
-- Documentation Generation
-- Product Discovery
-- Engineering Productivity
-- Knowledge Systems
+- AI-assisted Architecture & Documentation
+- AI-assisted Product Discovery
+- Engineering Productivity & Knowledge Systems
 
+### Philosophy
+
+AI as a force multiplier for engineering teams, not a replacement for technical expertise — focused on better decisions, less repetitive work and faster learning velocity.
 
 ---
 
 # Notable Projects
+
+Selected personal projects, used as labs to experiment with architecture, product thinking and AI-assisted workflows.
 
 ## CityScope API
 
@@ -532,62 +437,30 @@ Magic: The Gathering collection manager focused on local inventory and external 
 - original combat system
 - folklore-inspired enemies
 - retro arcade inspiration
+
 ---
 
-# Engineering Principles
+# Engineering Philosophy
 
-- Build simple systems first
-- Prefer maintainability over complexity
+> Good engineering is not about using the most complex solution. It is about creating systems people can understand, evolve and trust.
+
+- Build simple systems first, and prefer maintainability over complexity
 - Optimize for developer productivity
-- Measure before optimizing
+- Measure before optimizing, and observe before scaling
 - Automate repetitive work
-- Document important decisions
-- Design for evolution
----
-
-# AI & Innovation
-
-I actively explore practical applications of AI to improve engineering productivity, architecture decisions and developer experience.
-
-## Areas of Experimentation
-
-- Claude Code workflows
-- ChatGPT-assisted engineering
-- AI-assisted architecture reviews
-- Prompt engineering
-- AI-generated technical documentation
-- AI-enhanced product discovery
-- AI-assisted SaaS development
-- Knowledge augmentation systems
-
-## Engineering Philosophy
-
-My goal is not replacing engineers with AI.
-
-My focus is helping engineers:
-
-- make better decisions
-- reduce repetitive work
-- improve software quality
-- accelerate delivery
-- increase productivity
-- improve learning velocity
-
-I see AI as a force multiplier for engineering teams rather than a replacement for technical expertise.
+- Document decisions as part of delivery
+- Design for evolution with business purpose in mind
 
 ---
 
 # Leadership & Mentoring
 
-- Currently Tech Lead of the Platform Engineering team at Itaú.
-- Led 3 engineering squads across different business domains.
-- Mentored developers
-- Participated in architectural decisions
-- Helped establish engineering standards, architectural guidelines and development practices.
+- Acting as technical leader for platform engineering initiatives at Itaú
+- Led 3 engineering squads across different business domains
+- Mentored developers and participated in architectural decisions
+- Helped establish engineering standards, architectural guidelines and development practices
 - Strong collaboration with QA, Product and DevOps
-- Documentation-driven engineering mindset
-- Knowledge sharing initiatives
-- Cross-team collaboration
+- Documentation-driven, knowledge-sharing engineering mindset
 
 ---
 
@@ -619,58 +492,22 @@ Ongoing log of courses and learning trails completed throughout the year.
 
 - 12-course track covering Docker and Vagrant
 
-## DIO - Formação Kubernetes Fundamentals
-- 14-course track covering devops, k8s, ci/cd and sre itens
----
+## DIO — Formação Kubernetes Fundamentals
 
-# Engineering Philosophy
-
-> Good engineering is not about using the most complex solution.  
-> It is about creating systems people can understand, evolve and trust.
-
-I prefer:
-
-- simple systems over magical abstractions
-- consistency over unnecessary innovation
-- observability before optimization
-- architecture with business purpose
-- long-term maintainability
-- documentation as part of delivery
+- 14-course track covering DevOps, K8s, CI/CD and SRE topics
 
 ---
 
-# Community & Long-Term Goals
+# Beyond Engineering
 
-```yaml
-goals:
-  - become a strong technical reference in the engineering community
-  - contribute to developer growth and mentoring
-  - help teams become more productive through better platforms
-  - improve developer experience and engineering culture
-  - contribute to scalable engineering ecosystems
-  - create meaningful SaaS products
-  - share technical knowledge publicly
-  - strengthen collaboration between teams and communities
-```
----
+Interests that expand my engineering perspective and feed back into how I build systems:
 
-# Technical Interests
-
-Current areas that I actively study and explore:
-
-- Platform Engineering
-- Distributed Systems
-- AI Engineering
-- Developer Experience
-- Cloud Native Architecture
-- SaaS Products
-- Public Data Platforms
-- Game Development
-- Fighting Game Architecture
-- Observability
-- Product Engineering
-- Automation Systems
-- Knowledge Management
+- AI-assisted software engineering and prompt engineering
+- SaaS product design and public data platforms
+- Game architecture — combat systems and fighting game mechanics
+- Developer Experience (DX) and platform engineering research
+- Technical content creation
+- Magic: The Gathering and Brazilian folklore storytelling
 
 ---
 
@@ -689,112 +526,46 @@ Current areas that I actively study and explore:
 
 ---
 
-# Fun Facts
-
-Besides backend engineering, I also enjoy:
-
-- building SaaS products
-- creating game prototypes
-- studying fighting game architecture
-- AI-assisted development
-- prompt engineering
-- Magic: The Gathering
-- Brazilian folklore storytelling
-- automation systems
-- public data platforms
-- architecture experimentation
-
----
-
-# PDI — Professional Development Plan
+# PDI — Professional Development Plan 2026
 
 ```yaml
-2026_:
+PDI_2026:
 
-  certifications:
-    - renew AWS Cloud Practitioner certification
-    - study for AWS Developer / Cloud Developer certification
-    - deepen cloud-native architecture expertise
-    - pursue AI-related certifications and learning paths
+  completed:
+    - Anthropic Academy learning path (Claude 101, Claude Code 101, Claude Platform 101, Claude Code in Action, AI Fluency: Framework & Foundations)
+    - AI-assisted engineering workflows adoption
+    - mastery of AI-assisted software development workflows and prompt engineering
+    - reference in AI for engineering productivity
+    - integration of AI into platform engineering practices
+    - strengthened platform engineering expertise and developer experience initiatives
+    - evolved technical leadership capabilities and mentoring skills
+    - improved onboarding and product thinking for platform users
+    - strengthened collaboration and knowledge sharing across teams
 
-  education:
-    - complete MBA in Cloud Computing at PUC Minas this year
-    - continue improving distributed systems and platform engineering knowledge
+  in_progress:
+    - MBA in Cloud Computing at PUC Minas
+    - AWS certification renewal
+    - Staff Platform Engineer skill development
+    - contributing to internal developer platforms
+    - evolving engineering enablement capabilities
+    - building production-ready AI-powered products
+    - studying multi-agent systems and LLM architecture
 
-  artificial_intelligence:
-    - study practical AI applications for engineering
-    - completed Anthropic Academy trail (Claude 101, Claude Code 101, Claude Platform 101, Claude Code in Action, AI Fluency: Framework & Foundations)
-    - explore AI-assisted developer tooling and workflows
-    - understand how AI can improve engineering productivity and platform experience
-
-  leadership:
-    - evolve technical leadership capabilities
-    - strengthen Staff Engineer responsibilities
-    - explore Tech Lead responsibilities and organizational impact
-    - improve communication and mentoring skills
-
-  product_and_business:
-    - improve onboarding experience for product clients
-    - help customers become more productive using the platform
-    - evolve product thinking and SaaS scalability vision
-    - strengthen relationship between engineering and users
-
-  community:
-    - become more active in the engineering community
-    - participate more actively in FRA initiatives and discussions
-    - share more technical content and engineering experiences
-    - strengthen collaboration and knowledge sharing
-
-  continuous_learning:
-    - consume more external technical content
-    - study architecture case studies from large companies
-    - follow modern platform engineering references
-    - deepen observability and distributed systems knowledge
-      - maintain continuous long-term technical evolution
-
-  ai_engineering:  
-    - master AI-assisted software development workflows
-    - deepen prompt engineering expertise
-    - become a reference in AI for engineering productivity
-    - integrate AI into platform engineering practices
-    - build production-ready AI-powered products
-    - study multi-agent systems
-    - deepen LLM architecture knowledge
-  
-  platform_engineering:
-    - strengthen platform engineering expertise
-    - improve developer experience initiatives
-    - contribute to internal developer platforms
-    - evolve engineering enablement capabilities
-  
-  product_building:
-    - launch personal SaaS products
-    - validate product ideas
-    - improve product thinking
-    - strengthen business and engineering alignment
+  next_focus:
+    - organizational influence and platform adoption strategies
+    - engineering metrics and platform observability at scale
+    - internal platform product management
+    - AI-powered platform capabilities in production
+    - launching and validating personal SaaS products
 ```
 
-# Personal Projects Philosophy
-
-Most of my personal projects are intentionally built as learning platforms.
-
-Each project is an opportunity to explore:
-
-- new technologies
-- architectural patterns
-- developer experience improvements
-- AI-assisted workflows
-- cloud-native solutions
-- product thinking
-
-Rather than building projects only for portfolios, I use them as environments to experiment, validate ideas and continuously evolve as an engineer.
-
+---
 
 <div align="center">
 
 ## Let's Connect
 
-Engineering • Architecture • Distributed Systems • Cloud • Platforms
+Engineering • Platform • Distributed Systems • Cloud
 
 </div>
 
