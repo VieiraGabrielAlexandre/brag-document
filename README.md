@@ -526,10 +526,10 @@ Interests that expand my engineering perspective and feed back into how I build 
 
 ---
 
-# PDI — Professional Development Plan 2026
+# PDI — Professional Development Plan 2026/2027
 
 ```yaml
-PDI_2026:
+PDI_2026_2026:
 
   completed:
     - Anthropic Academy learning path (Claude 101, Claude Code 101, Claude Platform 101, Claude Code in Action, AI Fluency: Framework & Foundations)
