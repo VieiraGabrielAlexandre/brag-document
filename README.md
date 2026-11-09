@@ -529,10 +529,14 @@ Interests that expand my engineering perspective and feed back into how I build 
 # PDI — Professional Development Plan 2026/2027
 
 ```yaml
-PDI_2026_2026:
+PDI_2026_2027:
 
   completed:
-    - Anthropic Academy learning path (Claude 101, Claude Code 101, Claude Platform 101, Claude Code in Action, AI Fluency: Framework & Foundations)
+    - 10+ courses completed on Anthropic Learn (Claude 101, Claude Code 101, Claude Platform 101, Claude Code in Action, AI Fluency: Framework & Foundations, among others)
+    - Itaú CeCyber DevSec security training
+    - AWS and Azure cloud training courses
+    - shipped the Camada N product to production with live customers across all 3 environments (dev, hom, prod)
+    - promoted to Tech Lead of a Camada Zero team
     - AI-assisted engineering workflows adoption
     - mastery of AI-assisted software development workflows and prompt engineering
     - reference in AI for engineering productivity
