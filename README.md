@@ -468,7 +468,7 @@ Magic: The Gathering collection manager focused on local inventory and external 
 
 ### PUC Minas - MBA — Cloud Computing *(in progress)*
 
-### PUC Minas - MBA — Distributed Software Architecture
+### PUC Minas - MBA — Distributed Software Architecture (2024)
 
 ### Uninove - Computer Science - (2015 - 2019)
 
